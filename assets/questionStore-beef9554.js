@@ -1,0 +1,1 @@
+import{O as o,r as n}from"./index-29344c3a.js";const i=o("question",()=>{const e=n([]);return{recentlyViewed:e,addToRecentlyViewed:t=>{e.value.length>=10&&e.value.pop(),e.value.unshift(t)}}},{persist:!0});export{i as u};

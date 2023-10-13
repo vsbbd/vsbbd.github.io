@@ -1,0 +1,1 @@
+import{_ as e,k as s,l as t,m as c}from"./index-29344c3a.js";const o="/assets/work-in-progress-270a9840.png",n={},r={class:"flex items-center justify-center pt-20 text-center"},_=c("img",{src:o,alt:"",class:"h-72"},null,-1),a=[_];function i(l,m){return s(),t("div",r,a)}const d=e(n,[["render",i]]);export{d as default};
